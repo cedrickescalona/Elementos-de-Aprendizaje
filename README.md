@@ -1,1 +1,3 @@
-# Elementos-de-Aprendizaje
+-🇲🇽: Aplicación en formato APK desarrollada el 18 de abril de 2020 exclusivamente para el Sistema Operarivo Android (Android 4.1 "Jelly Bean" o superior) desarrollada en el lenguaje Java para acceder a la versión móvil del repositorio escolar llamado "Elementos de Aprendizaje" del Instituto Politécnico Nacional (IPN) con el propósito de continuar con las actividades académicas a distancia .
+
+-🇬🇧: Application in APK format developed on April 18, 2020 exclusively for the Android Operating System (Android 4.1 "Jelly Bean" or higher) developed in the Java language to access the mobile version of the school repository "Learning Elements" of the National Polytechnic Institute for continuing with academic activities at a distance.
